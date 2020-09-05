@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - I've been involved in various phases Software Development Life Cycle such as Development, Testing, Deployment and Application Support.
 
 # Get in touch
-Reach out via 📫 racheldias7@gmail.com or find me on [LinkedIN](https://www.linkedin.com/in/rachael-dias-210200115/).
+Reach out via :e-mail: racheldias7@gmail.com or find me on [LinkedIN](https://www.linkedin.com/in/rachael-dias-210200115/).
