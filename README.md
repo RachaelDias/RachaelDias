@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--3 years of business intelligence and data warehousing experience with technologies such as Teradata and IBM DataStage.
+- I have 3 years of business intelligence and data warehousing experience with technologies such as Teradata and IBM DataStage.
+- I've been involved in various phases Software Development Life Cycle such as Development, Testing, Deployment and Application Support.
+
+### Get in touch
+Reach out via 📫 racheldias7@gmail.com or find me on [LinkedIN](https://www.linkedin.com/in/rachael-dias-210200115/).
