@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I have 3 years of business intelligence and enterprise data warehousing experience with technologies such as Teradata and IBM DataStage.
-- I've been involved in various phases of the Software Development Life Cycle such as Development, Testing, Deployment and Application Support.
+- I've been involved in various phases of the software development life cycle (SDLC) such as development, testing, deployment and application support.
 
 # Get in touch
 Reach out via :e-mail: racheldias7@gmail.com or find me on [LinkedIN](https://www.linkedin.com/in/rachael-dias-210200115/).
