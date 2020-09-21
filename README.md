@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I have 3 years of experience as an application development analyst at Accenture in an enterprise data warehouse project in the postal domain.
-- My technical expertise is in business intelligence and enterprise data warehousing where I worked with technologies such as Teradata and IBM DataStage.
+- My technical expertise is in business intelligence and enterprise data warehousing I've worked with technologies such as Teradata and IBM DataStage.
 - I was involved in various phases of the software development life cycle (SDLC) such as development, testing, deployment and application support.
 
 # Get in touch
