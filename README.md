@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I have 3 years of experience as an application development analyst at Accenture in an enterprise data warehouse project in the postal domain.
-- Experience in business intelligence and enterprise data warehousing I've worked with technologies such as Teradata and IBM DataStage.
-- I was involved in various phases of the software development life cycle (SDLC) such as development, testing, deployment and application support.
+- I have 3 years of experience as an application development analyst at Accenture in business intelligence and enterprise data warehouse project in the postal domain.
+- I've worked with technologies such as Teradata and IBM DataStage.
+- I've across various phases of the software development life cycle (SDLC) such as development, testing, deployment and application support.
+- I have a firm foundation in statistics, database management and data analysis. 
+ 
 
 # Get in touch
 Reach out via :e-mail: racheldias7@gmail.com or find me on [LinkedIN](https://www.linkedin.com/in/rachael-dias-210200115/).
+ 
