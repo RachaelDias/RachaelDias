@@ -21,5 +21,5 @@ Here are some ideas to get you started:
  
 
 # Get in touch
-Reach out via :e-mail: racheldias7@gmail.com or find me on [LinkedIN](https://www.linkedin.com/in/rachael-dias-210200115/).
+Reach out via :e-mail: rachaeldias@trentu.ca or find me on [LinkedIN](https://www.linkedin.com/in/rachael-dias-210200115/).
  
