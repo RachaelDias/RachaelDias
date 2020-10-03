@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - I have 3 years of experience as an application development analyst at Accenture in business intelligence and enterprise data warehousing.
 - I've worked with technologies such as Teradata, Unix, and IBM DataStage.
-- I've worked across various phases of the software development life cycle (SDLC) such as development, testing, deployment and application support.
+- I've worked across all phases of the software development life cycle (SDLC).
 - I have a firm foundation in statistics, database management and data analysis. 
  
 
