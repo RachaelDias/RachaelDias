@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I have 3 years of experience as an application development analyst at Accenture in business intelligence and enterprise data warehousing.
-- I've worked with technologies such as Teradata, Unix, and IBM DataStage.
-- I've been involved in development, testing, deployment, and application support phases of the software development life cycle (SDLC).
+- I am a developer with 4+ years of experience in data integration, and business intelligence.
+- I have been involved with all stages of the data lifecycle.
 - I have a firm foundation in statistics, database management and data analysis. 
  
 
