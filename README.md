@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am a developer with 4+ years of experience in data integration, and business intelligence.
+- I am a developer with 4+ years of experience in data integration and business intelligence.
 - I have been involved with all stages of the data lifecycle.
 - I have a firm foundation in statistics, database management and data analysis. 
  
