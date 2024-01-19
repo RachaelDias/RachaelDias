@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am a data analyst/developer with 5+ years of experience in data engineering, data integration and business intelligence.
+- I am a data analyst with 5+ years of experience in data engineering, data integration and business intelligence.
 - I have been involved with all stages of the data lifecycle.
 - I have a firm foundation in statistics, database management and data analysis. 
  
